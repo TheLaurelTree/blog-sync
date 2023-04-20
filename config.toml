@@ -1,0 +1,5 @@
+theme = 'ananke'
+emojify = true
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'The Laurel Tree'
